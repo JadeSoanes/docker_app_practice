@@ -79,6 +79,15 @@ Here is a screenshot of the simple (but working!) web app:
 
 ![Screenshot of a web based profile page](images/profile_image.png)
 
+Here is the updated user profile, proving the ability to edit and save:
+
+![Screenshot of a web based profile page](images/profile_image_2.png)
+
+Here is a screenshot of the mongo-db showing the changed record:
+
+![Screenshot of a web based profile page](images/db_screenshot.png)
+
+
 ## Credit 👭
 
 Thisi project was taken from the CodeFirstGirls DevOps MOOC. A brilliant UK-based community which aims to get more women into tech! Check out the current MOOCs [here](https://codefirstgirls.com/courses/moocs/)
