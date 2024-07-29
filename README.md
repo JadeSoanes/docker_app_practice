@@ -7,6 +7,9 @@ This demo app shows a simple user profile app set up using
 
 All components are docker-based
 
+![Docker](https://img.shields.io/badge/Docker-Enabled-007ACC) ![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-green) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-FFA500)
+
+
 ## About the Project 📓
 This project is a simple web application designed to practice using Docker. It features a Node.js backend with Express, MongoDB for data storage, and a frontend built with HTML, JavaScript, and CSS. The application allows users to create profiles and save them to the back end mongo-db. The project is containerized using Docker, enabling easy deployment and scalability - important in the world of DevOps!!
 
@@ -91,3 +94,6 @@ Here is a screenshot of the mongo-db showing the changed record:
 ## Credit 👭
 
 Thisi project was taken from the CodeFirstGirls DevOps MOOC. A brilliant UK-based community which aims to get more women into tech! Check out the current MOOCs [here](https://codefirstgirls.com/courses/moocs/)
+
+
+Badges from [Shields.io](https://shields.io/)
