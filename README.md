@@ -8,7 +8,7 @@ This demo app shows a simple user profile app set up using
 All components are docker-based
 
 ## About the Project 📓
-This project is a simple web application designed to practice using Docker. It features a Node.js backend with Express, MongoDB for data storage, and a frontend built with HTML, JavaScript, and CSS. The application allows users to create and view profiles, demonstrating basic CRUD operations. The project is containerized using Docker and Docker Compose, enabling easy deployment and scalability.
+This project is a simple web application designed to practice using Docker. It features a Node.js backend with Express, MongoDB for data storage, and a frontend built with HTML, JavaScript, and CSS. The application allows users to create profiles and save them to the back end mongo-db. The project is containerized using Docker, enabling easy deployment and scalability - important in the world of DevOps!!
 
 ## Instructions 👓
 
