@@ -1,4 +1,4 @@
-## demo app - developing with Docker
+# Developing with Docker: User Profile Web App
 
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
@@ -6,6 +6,11 @@ This demo app shows a simple user profile app set up using
 - mongodb for data storage
 
 All components are docker-based
+
+## About the Project 📓
+This project is a simple web application designed to practice using Docker. It features a Node.js backend with Express, MongoDB for data storage, and a frontend built with HTML, JavaScript, and CSS. The application allows users to create and view profiles, demonstrating basic CRUD operations. The project is containerized using Docker and Docker Compose, enabling easy deployment and scalability.
+
+## Instructions 👓
 
 ### With Docker
 
@@ -68,3 +73,12 @@ Step 5: access the nodejs application from browser
     docker build -t my-app:1.0 .       
     
 The dot "." at the end of the command denotes location of the Dockerfile.
+
+## Screenshots 📸
+Here is a screenshot of the simple (but working!) web app:
+
+![Screenshot of a web based profile page](images/profile_image.png)
+
+## Credit 👭
+
+Thisi project was taken from the CodeFirstGirls DevOps MOOC. A brilliant UK-based community which aims to get more women into tech! Check out the current MOOCs [here](https://codefirstgirls.com/courses/moocs/)
